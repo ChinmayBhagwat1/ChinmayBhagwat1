@@ -14,6 +14,7 @@ development. I utlized visualization tools to create impactful dashboards for le
 I'm currently a graduate student at Arizona State University purusing my masters in Management of Technology with a concentration in Data Analytics.
 
 Connect with me!
+
 [LinkedIn](https://www.linkedin.com/in/chinmay-bhagwat-b466571b2/)
 
 
